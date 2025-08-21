@@ -83,9 +83,10 @@ chpater 21- network layer: addr mapping, error reporting, multicasting
             
 
 ## Lab task
-    contain files that complete from reading book
+    Contain lab related basics tasks that complete for practise.
+    scenario is given and complete according to requirement.
 
 ## LAb files
-     contain files that complete on cisco , of CCNA task
+     contain files that complete on cisco , during CCNA training.
 
      
